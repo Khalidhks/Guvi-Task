@@ -1,0 +1,1 @@
+Uppercase List: [ABC, D, EF]

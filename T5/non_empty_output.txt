@@ -1,0 +1,1 @@
+Non-Empty Strings: [abc, be, efg, abed, jkl]
